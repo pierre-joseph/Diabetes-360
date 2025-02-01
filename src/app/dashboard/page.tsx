@@ -136,7 +136,7 @@ const Dashboard: NextPage = () => {
             <Button>Track Progress</Button>
           </StatCard>
           <StatCard>
-            <StatCardHeading>Today's Steps</StatCardHeading>
+            <StatCardHeading>Todays Steps</StatCardHeading>
             <StatCardValue>3,200 steps</StatCardValue>
             <Button>Log More</Button>
           </StatCard>
